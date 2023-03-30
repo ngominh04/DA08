@@ -1,0 +1,42 @@
+
+/* footer 1 */
+.logo-QC{
+    border-top: 1px solid #ebebeb;
+}
+.logo-QC ul{
+    display: flex;
+    justify-content: space-around;
+}
+.logo-QC ul li{list-style: none;}
+
+/* footer 2 */
+.lien-he{
+    background-color: #bf2e1b;
+    
+}
+.lien-he ul{
+    display: flex;
+    justify-content: space-around;
+}
+.lien-he ul li{
+    list-style: none;
+}
+.lien-he ul li a{
+    text-decoration: none;color: white;
+}
+
+
+/* footer 3 */
+footer .container .ft-3 ul{
+    display: flex;
+    justify-content: space-around;
+}
+footer .container .ft-3 ul li{
+    list-style: none;
+}
+footer .container .ft-3 ul li img{
+    margin: 0.25rem;
+}
+footer .container .ft-3 ul li p{
+    margin:0 0 -0.25rem 0;
+}

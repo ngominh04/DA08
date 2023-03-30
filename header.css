@@ -1,0 +1,270 @@
+*{margin: 0;padding: 0;}
+header .box-menu{
+    display: flex;
+    justify-content: space-between;
+} 
+
+header #menu-ngang{
+    position: relative;
+}
+#show1{
+    color: red;
+}
+header #menu-ngang .show1-u{
+    position: absolute;
+    background-color: #bf2e1b;
+    width: 70px;
+    height: 2px;
+    margin-left: -92rem;
+    bottom: -0.85rem;
+}
+header #menu-ngang .show2-u{
+    position: absolute;
+    background-color: #bf2e1b;
+    width: 70px;
+    height: 2px;
+    margin-left: -67rem;
+    bottom: -0.85rem;
+    display: none;
+}
+header #menu-ngang .show3-u{
+    position: absolute;
+    background-color: #bf2e1b;
+    width: 80px;
+    height: 2px;
+    margin-left: 0;
+    bottom: -0.85rem;
+    display: none;
+}
+header #menu-ngang .show4-u{
+    position: absolute;
+    background-color: #bf2e1b;
+    width: 55px;
+    height: 2px;
+    margin-right: -0.5rem;
+    bottom: -0.85rem;
+    display: none;
+}
+header #menu-ngang .show5-u{
+    position: absolute;
+    background-color: #bf2e1b;
+    width: 50px;
+    height: 2px;
+    margin-right: -22rem;
+    bottom: -0.85rem;
+    display: none;
+}
+header #menu-ngang .show6-u{
+    position: absolute;
+    background-color: #bf2e1b;
+    width: 85px;
+    height: 2px;
+    margin-right: -46rem;
+    bottom: -0.85rem;
+    display: none;
+}
+header #menu-ngang .show7-u{
+    position: absolute;
+    background-color: #bf2e1b;
+    width: 53px;
+    height: 2px;
+    margin-right: -70.5rem;
+    bottom: -0.85rem;
+    display: none;
+}
+header .menu #menu-ngang{
+    margin-right: 10rem;
+}
+header .menu ul{
+    display: flex;
+    height: 25px;
+    justify-content: space-around;
+}
+.ho-tro{
+    display: flex;
+    background-color: #bf2e1b;
+    justify-content: flex-end;
+
+}
+.ho-tro p{
+    padding:0 1rem  0 0;
+    color: white;
+}
+.ho-tro button{
+    padding:0 0.5rem  0 0;
+    border: 1px solid white;
+    margin: 0.25rem 0.25rem 0 0;
+    border-radius: 5px;
+    width: 25px;
+    height: 25px;
+    font-size: 15px;
+    color: white;
+    background-color: #bf2e1b;
+}
+.null{
+    margin: 0 10rem 0 0;
+    color: #bf2e1b;
+}
+.menu ul li{
+    list-style: none;
+    border: 1px solid white;
+    padding: 0;
+    margin-right: 5rem;
+}
+header .menu .logo{
+    background-color: white;
+    width: 25%;
+    height: 50px;
+    margin-top: -25px;
+    border: 0;
+    border-top-right-radius: 20px;
+} 
+.menu img{
+    width: 60%;
+    padding-right: -5rem;
+    margin-right: 3rem;
+    
+}
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+}
+.dropdown-menu{
+    width: 1300px;
+    margin-left: -50rem;
+    
+}
+.dropdown-menu #show3{
+    border-bottom: 1px solid #f3f3f3;
+    padding: 1rem;
+    content: '>';
+}
+.dropdown-menu i{
+    background-color: #bf2e1b;
+    color: white;
+}
+header #fa0{
+    padding-left: 1rem;
+    background-color: white;
+    color: black;
+} 
+header .content-header{
+    margin-left: 50%;
+    background-color: white;
+    color: black;
+}
+header .content-header1{
+    margin-left: 47.5%;
+    background-color: white;
+    color: black;
+}
+header .content-header2{
+    margin-left: 47.5%;
+    background-color: white;
+    color: black;
+}
+header .content-header3{
+    margin-left: 65%;
+    background-color: white;
+    color: black;
+}
+header .content-header4{
+    margin-left: 53%;
+    background-color: white;
+    color: black;
+}
+header .content-header5{
+    margin-left: 62%;
+    background-color: white;
+    color: black;
+}header .content-header6{
+    margin-left: 10%;
+    background-color: white;
+    color: black;
+}
+header .content-header7{
+    margin-left: 19%;
+    background-color: white;
+    color: black;
+}
+header .content-header8{
+    margin-left: 42%;
+    background-color: white;
+    color: black;
+}
+header .content-header9{
+    margin-left: 35%;
+    background-color: white;
+    color: black;
+}
+header .content-header10{
+    margin-left: 48%;
+    background-color: white;
+    color: black;
+}
+header .content-header11{
+    margin-left: 59.5%;
+    background-color: white;
+    color: black;
+}
+
+header .content-header12{
+    margin-left: 47%;
+    background-color: white;
+    color: black;
+}
+header .content-header13{
+    margin-left: 52%;
+    background-color: white;
+    color: black;
+}
+header .content-header14{
+    margin-left: 55%;
+    background-color: white;
+    color: black;
+}
+header .content-header15{
+    margin-left: 6.5%;
+    background-color: white;
+    color: black;
+}
+header .content-header16{
+    margin-left: 36.5%;
+    background-color: white;
+    color: black;
+}
+header .content-header17{
+    margin-left: 65%;
+    background-color: white;
+    color: black;
+}
+header .content-header18{
+    margin-left: 16%;
+    background-color: white;
+    color: black;
+}
+header .content-header19{
+    margin-left: 55.35%;
+    background-color: white;
+    color: black;
+}
+header .content-header20{
+    margin-left: 55.5%;
+    background-color: white;
+    color: black;
+}
+header .content-header21{
+    margin-left: 28%;
+    background-color: white;
+    color: black;
+}
+header .content-header22{
+    margin-left: 17.5%;
+    background-color: white;
+    color: black;
+}
+header .content-header23{
+    margin-left: 36.25%;
+    background-color: white;
+    color: black;
+}
