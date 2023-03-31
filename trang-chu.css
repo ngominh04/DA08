@@ -1,0 +1,218 @@
+*{margin: 0;padding: 0;}
+
+#trang-chu .banner{
+    position: relative;
+    margin-top: 0;
+}
+#trang-chu .banner .banner-text p{
+    position: absolute;
+    top: 15%;
+    left: 25%;
+    font-size: 3rem;
+    color: #7e9aa9;
+}
+#trang-chu .banner .banner-text span{
+    font-size: 30px;
+    color: #bf2e1b;
+}
+#trang-chu .trangchu-gioithieu{
+    background-color: #f3f3f3;
+}
+#trang-chu .container-fuild .row{
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
+}
+#trang-chu #duoi-banner-trang-chu{
+    padding-top: 2rem;
+    padding-left: 11rem;
+    padding-bottom: 2rem;
+    background-color: white;   
+}
+#trang-chu .container .row #box-trangchu{
+    background-color: #f3f3f3;
+}
+#trang-chu .container .row #box-trangchu .content{
+    margin-top: 2rem;
+    border: 1px solid #bf2e1b;
+    border-right: 1px;
+    border-top: 1px;
+    border-bottom: 1px;
+    padding:0 0 0 1rem;
+}
+#trang-chu .container .row #box-trangchu .content font{
+    font-size: 24px;
+}
+#trang-chu .container .row #box-trangchu button{
+    width: 120px;
+    background-color: #bf2e1b;
+    border: 0;
+    border-radius: 20px;
+    color: white;
+    margin-top: 25px;
+}
+#trang-chu .text-san-pham{
+    display: flex;
+    margin-left: 50rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+#trang-chu .text-san-pham p{
+    font-size: 36px;
+}
+#trang-chu .text-san-pham #text-san-pham2{
+    color: red;
+    margin:0 0 0 1.5rem;
+}
+
+#trang-chu .text-san-pham .sanpham-u{
+    margin-top: 55px;
+    margin-left: 20rem;
+    position: relative;
+}
+#trang-chu .text-san-pham .sanpham-u{
+    position: absolute;
+    height: 2px;
+    width: 60px;
+    background-color: #bf2e1b;
+}
+
+#trang-chu .banner-san-pham .regular{
+    width: 80%;
+}
+#trang-chu .banner-san-pham .regular img{
+    
+    border: 0;
+    border-radius: 50%;
+    width: 60%;
+}
+
+ #trang-chu .banner-san-pham{
+    position: relative;
+}
+#trang-chu .banner-san-pham .regular{
+    position: absolute;
+    top: 1rem;
+    margin-left: 10%;
+}
+#trang-chu .sanpham-trangchu{
+    background-color: #f3f3f3;
+}
+#trang-chu .sanpham-trangchu .sanpham-regular-nd{
+    border: 0;
+    background-color: white;
+    border-radius: 10px;
+    height: 400px;
+    margin-top: 2rem;
+}
+#trang-chu .sanpham-trangchu .sanpham-regular-nd p{
+    margin: 2rem;
+}
+#trang-chu #sanpham-regular-nd-duoi{
+    margin-left: 5rem;
+    width: 150px;
+}
+#trang-chu .sanpham-trangchu
+#sanpham-trangchu-button{
+    width: 120px;
+    background-color: #bf2e1b;
+    border: 0;
+    border-radius: 20px;
+    color: white;
+    margin-bottom: 25px;
+}
+
+#trang-chu .dichvu-trangchu {
+    margin-bottom: 5rem;
+}
+#trang-chu .dichvu-trangchu img{
+    border: 0;
+    border-radius: 10px;
+}
+#trang-chu .dichvu-trangchu .img{
+    position: relative;
+    
+}
+#trang-chu .dichvu-trangchu .img .text p{
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    color: white;
+}
+#trang-chu .icon{
+    text-align: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    border: 1px solid white;
+    background-color: #bf2e1b;
+    border-radius: 50%;
+    color: white;
+}
+#trang-chu .dichvu-trangchu .img .icon{
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+}
+
+#trang-chu .text-dichvu{
+    display: flex;
+    margin-left: 55rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+#trang-chu .text-dichvu p{
+    font-size: 36px;
+}
+#trang-chu .text-dichvu #text-dichvu2{
+    color: red;
+    margin:0 0 0 1.5rem;
+}
+
+#trang-chu .text-dichvu .dichvu-u{
+    margin-top: 55px;
+    margin-left: 18rem;
+    position: relative;
+}
+#trang-chu .text-dichvu .dichvu-u{
+    position: absolute;
+    height: 2px;
+    width: 60px;
+    background-color: #bf2e1b;
+}
+
+#trang-chu .tintuc-trangchu{
+    background-color: #f3f3f3;
+    padding-bottom: 5rem;
+}
+#trang-chu .text-tintuc{
+    display: flex;
+    margin-left: 60rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+#trang-chu .text-tintuc p{
+    font-size: 36px;
+}
+#trang-chu .text-tintuc #text-tintuc2{
+    color: red;
+    margin:0 0 0 1.5rem;
+}
+
+#trang-chu .text-tintuc .tintuc-u{
+    margin-top: 55px;
+    margin-left: 11rem;
+    position: relative;
+}
+#trang-chu .text-tintuc .tintuc-u{
+    position: absolute;
+    height: 2px;
+    width: 60px;
+    background-color: #bf2e1b;
+}
+#trang-chu {
+    position: relative;
+}
+#trang-chu .zone{
+    position: absolute;
+    top: 25%;
+    right: 0;
+}
