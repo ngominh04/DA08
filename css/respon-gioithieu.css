@@ -1,0 +1,103 @@
+
+@media (max-width: 575.98px) {
+
+    #gt{margin-top: 8rem;}
+    #gt .banner-text h3{
+        font-size: 1.5rem;
+    }
+    #gt .banner-text span{
+        font-size: 1.5rem;
+    }
+    #gt .gt-header{
+        margin-left: -5rem;
+    }
+    #gt .gt-menu{
+        
+        margin-left: -5rem;
+    }
+    #gt .gt-menu ul h2{font-size: 12px;}
+    #gt .gt-menu ul .gt-menu1{width: 300px;}
+    #gt .gt-menu ul .gt-menu2{width: 116px;}
+    #gt .gt-menu ul .gt-menu3{width: 116px;}
+    #gt .gt-menu ul .gt-menu4{width: 116px;}
+    #gt .gt-menu ul .gt-menu5{width: 300px;}
+    #gt .container{
+        margin-left: 8rem;
+
+    }
+    #gt h1{font-size: 20px;color: black;}
+    #gt p{font-size: 12px;}
+    #gt #tamnhin-gioithieu{
+        margin-top:-9rem;
+        margin-left: 12rem;
+        width: 400px;
+        color: red;
+    }
+    #gt #gt-banner2 .gt-banner2 div{
+        margin-top: -8rem;
+        margin-right: -3rem;
+        width: 360px;
+        color: red;
+    }
+    #gt .duoi-thong-diep #duoi-thong-diep1{
+        font-size: 12px;
+    }
+    #gt .duoi-thong-diep #duoi-thong-diep2{
+        font-size: 12px;
+        width: 15rem;
+        height: 20px;
+        margin:0  0  0 5rem;
+    }
+    #gt .co-cau-to-chuc h1{
+        font-size: 26px;
+    }
+    #gt .co-cau-to-chuc img{
+        width: 100%;
+    }
+}
+@media (min-width: 576px) and (max-width: 1199.98px) {
+
+    #gt .banner-text h3{
+        font-size: 2.2rem;
+    }
+    #gt .banner-text span{
+        font-size: 2.2rem;
+    }
+    #gt .gt-header{
+        margin-left: -5rem;
+    }
+    #gt .gt-menu{
+        
+        margin-left: -5rem;
+    }
+    #gt .gt-menu ul h2{font-size: 18px;}
+    #gt .gt-menu ul .gt-menu1{width: 300px;}
+    #gt .gt-menu ul .gt-menu2{width: 116px;}
+    #gt .gt-menu ul .gt-menu3{width: 116px;}
+    #gt .gt-menu ul .gt-menu4{width: 116px;}
+    #gt .gt-menu ul .gt-menu5{width: 300px;}
+    #gt .container{
+        margin-left: 6rem;
+        width: 86%;
+    }
+    #gt #tamnhin-gioithieu{margin-left: -9rem;}
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    #gt .banner-text{
+        font-size: 2rem;
+    }
+    #gt .gt-header{
+        margin-left: -8rem;
+    }
+    #gt .gt-menu{
+        margin-left: -8rem;
+    }
+    #gt .gt-menu ul .gt-menu1{width: 300px;}
+    #gt .gt-menu ul .gt-menu5{width: 300px;}
+    #gt .container{
+        margin-left: 3rem;
+        width: 86%;
+    }
+    #gt #tamnhin-gioithieu{margin-left: -9rem;}
+}

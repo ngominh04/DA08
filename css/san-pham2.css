@@ -1,0 +1,135 @@
+#san-pham2{margin-top: 5rem;}
+#san-pham2 .banner-gt .banner-text h3{
+    color: #637f92;
+    font-size: 2.5rem;
+}
+#san-pham2 .banner-gt .banner-text span{
+    color: #bf2e1b;
+    font-size: 2.5rem;
+}
+#san-pham2 .content-san-pham .glyphicon{
+    border-radius: 20%;
+    background-color: #bf2e1b;
+    color: white;
+}
+#san-pham2 #box-content{
+    width: 300px;
+    margin-right: 3rem;
+}
+#san-pham2 #box-content .mayxetnghiem-sinhhoa{
+    margin-top: 1rem;
+}
+#san-pham2 #box-content .mayxetnghiem-sinhhoa a{
+    text-decoration: none;
+    color: black
+}
+#san-pham2 .content-san-pham{
+    border-top: 3px solid #bf2e1b;
+}
+
+#san-pham2 #box-item{
+    width: 825px;
+    margin-bottom: 2rem;
+}
+#san-pham2 .item-san-pham{
+    border-top: 2px solid #d9d9d9;
+}
+#san-pham2 .item-san-pham #item-img{
+    margin-top: 2rem;
+    height: 375px;
+    border: 1px solid #efefef;
+    border-radius: 5px;
+}
+#san-pham2 .item-san-pham #item-img:hover{
+    border-bottom: 8px solid #bf2e1b;
+}
+#san-pham2 .item-san-pham #item-img img{
+    margin-top: 2rem;
+}
+#san-pham2 .item-san-pham #item-img p{
+    margin-top: 2rem;
+}
+#san-pham2 {
+    position: relative;
+}
+#san-pham2 .zone{
+    position: absolute;
+    top: 28%;
+    right: 0;
+}
+
+
+#san-pham2 #thong-tin-sanphamXL{
+    width: 72%;
+}
+#san-pham2 #thong-tin-sanphamXL #may-chinh{
+    border: 1px solid #e7e7e7;
+    width: 50%;
+}
+#san-pham2 #thong-tin-sanphamXL #may-chinh img{
+    padding: 2rem;
+    margin-left: 5rem;
+}
+#san-pham2 #thong-tin-sanphamXL .thong-tin-tong{
+    display: flex;
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+    border-top: 3px dotted #e7e7e7;
+}
+#san-pham2 #thong-tin-sanphamXL .thong-tin-tong li{
+    list-style: none;
+}
+#san-pham2 #thong-tin-sanphamXL .thong-tin-tong .tong1 li{
+    margin-left: -2rem;
+}
+#san-pham2 .lienhe-taive{
+    display: flex;
+}
+#san-pham2 .lienhe-taive .lienhe button{
+    margin-right: 0.75rem;
+    background-color: #bf2e1b;
+    border: #bf2e1b;
+    padding: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    color: white;
+    border-radius: 10px;
+}
+#san-pham2 .lienhe-taive .taive button{
+    background-color: #455a66;
+    border: #bf2e1b;
+    padding: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    color: white;
+    border-radius: 10px;
+}
+#san-pham2 #thong-tin-sanphamXL{
+    position: relative;
+}
+#san-pham2 #thong-tin-sanphamXL a{
+    text-decoration: none;
+    color: #455a66;
+}
+#san-pham2 #thong-tin-sanphamXL .thong-tin-sanpham-u{
+    position: absolute;
+    top: 2rem;
+}
+#san-pham2 .may-chinh-mini{
+    margin-left: 8rem;
+}
+#san-pham2 .may-chinh-mini img{
+    border: 1px solid #e7e7e7;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+#san-pham2 .mayxetnghiem-sinhhoa li:hover{
+    color: red;
+}
+#san-pham2 .mayxetnghiem-sinhhoa li a:hover{
+    background-color: #475b66;
+}
+
+#san-pham2{display: none;}

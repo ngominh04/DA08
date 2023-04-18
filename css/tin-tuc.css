@@ -1,0 +1,54 @@
+#tin-tuc{margin-top: 5rem;}
+#tin-tuc .container .text-tin-tuc{
+    display: flex;
+}
+#tin-tuc .container .text-tin-tuc li{
+    list-style: none;
+    margin-left: -2rem;
+    margin-right: 4rem;
+}
+#tin-tuc .container .text-tin-tuc a{
+    text-decoration: none;
+    color: black;
+}
+
+#tin-tuc .box-tin-tuc{
+    position: relative;
+}
+#tin-tuc .box-tin-tuc .tin-tuc-u{
+    position: absolute;
+    top: -3px;
+    width: 200px;
+    height: 3px;
+    background-color: #c94737;
+}
+#tin-tuc .box-tin-tuc{
+    border-top: 1px solid #f2f0f1;
+    padding-top: 3rem;
+}
+#tin-tuc .box-tin-tuc #item-img-tin-tuc img{
+    width: 104%;
+    margin-left: -0.8rem;
+}
+#tin-tuc .box-tin-tuc #item-img-tin-tuc{
+    width: 30%;
+    height: 380px;
+    margin: 1.75rem;
+    
+    background-color: #f2f0f1;
+}
+#tin-tuc .page-tin-tuc{
+    margin:0 0 0 50rem;
+}
+#tin-tuc .page-tin-tuc .page-item{
+    margin-right: 0.5rem;
+}
+#tin-tuc {
+    position: relative;
+}
+#tin-tuc .zone{
+    position: absolute;
+    top: 30%;
+    right: 0;
+}
+/* #tin-tuc{display: none;} */

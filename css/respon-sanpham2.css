@@ -1,0 +1,56 @@
+@media (max-width: 575.98px) {
+    #san-pham2 #thong-tin-sanphamXL{
+        width: 100%;
+    }
+    #san-pham2 #thong-tin-sanphamXL #may-chinh img{
+        width: 150px;
+        margin-top: 5rem;
+        margin-left: -1rem;
+    }
+    #san-pham2 .may-chinh-mini{
+        margin-left: 3rem;
+    }
+    #san-pham2 #box-item{
+        width: 110%;
+    }
+    #san-pham2 #box-item #item-img img{
+        width: 90%;
+    }
+}
+@media (min-width: 576px) and (max-width: 1199.98px) {
+    #san-pham2 #thong-tin-sanphamXL{
+        width: 90%;
+    }
+    #san-pham2 #thong-tin-sanphamXL #may-chinh img{
+        width: 250px;
+    }
+    #san-pham2 .may-chinh-mini{
+        margin-left: 3rem;
+    }
+    #san-pham2 #box-item{
+        width: 97%;
+    }
+    #san-pham2 #box-item #item-img img{
+        width: 90%;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    #san-pham2 #thong-tin-sanphamXL{
+        width: 90%;
+    }
+    #san-pham2 #thong-tin-sanphamXL #may-chinh img{
+        width: 70%;
+    }
+    #san-pham2 .may-chinh-mini{
+        margin-left: 3rem;
+    }
+    #san-pham2 #box-item{
+        width: 102%;
+    }
+    #san-pham2 #box-item #item-img{
+        width: 87%;
+    }
+    #san-pham2 #box-item #item-img img{
+        width: 80%;
+    }
+}

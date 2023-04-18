@@ -1,0 +1,39 @@
+@media (max-width: 575.98px) {
+    *{margin: 0;padding: 0;}
+    #tuyen-dung{width: 100%;}
+    #tuyen-dung .container{
+        margin-left: 0;
+    }
+    #tuyen-dung .container .row #nd-tuyen-dung{
+        width:46%;
+    }
+    #tuyen-dung .container .row #nd-tuyen-dung h3{font-size: 16px;}
+    #tuyen-dung .container .row #nd-tuyen-dung p{font-size: 12px;}
+    #tuyen-dung .page-tin-tuc{
+        margin:0 0 0 10rem;
+    }
+}
+@media (min-width: 576px) and (max-width: 1199.98px) {
+
+    #tuyen-dung .container{
+        margin-left: 2rem;
+    }
+    #tuyen-dung .container .row #nd-tuyen-dung{
+        width:30%;
+    }
+    #tuyen-dung .container .row #nd-tuyen-dung h3{font-size: 16px;}
+    #tuyen-dung .container .row #nd-tuyen-dung p{font-size: 14px;}
+    #tuyen-dung .page-tin-tuc{
+        margin:0 0 0 20rem;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    #tuyen-dung .container{
+        width: 78%;
+    }
+    #tuyen-dung .page-tin-tuc{
+        margin:0 0 0 40rem;
+    }
+
+}

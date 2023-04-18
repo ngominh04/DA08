@@ -1,0 +1,27 @@
+@media (max-width: 575.98px) {
+
+    #lienhe{margin: 0;padding: 0;}
+    #lienhe #bangthongtin-lienhe{
+        margin-left: 5px;
+    }
+    #lienhe .row #diachi-lienhe i{
+        font-size: 12px;
+    }
+    #lienhe .row #diachi-lienhe p{
+        font-size: 10px;
+    }
+}
+@media (min-width: 576px) and (max-width: 1199.98px) {
+
+    #lienhe #bangthongtin-lienhe{
+        margin-left: 2rem;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    #lienhe .row #diachi-lienhe{
+        width: 1000px;
+    }
+    #lienhe #thongtinkhach-lienhe{
+        width: 1000px;
+    }
+}

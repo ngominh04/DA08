@@ -1,0 +1,48 @@
+@media (max-width: 575.98px) {
+    #san-pham{margin-top: 9rem;}
+    .banner-gt img{width: 107.2%;}
+    #san-pham .banner-gt .banner-text h3{
+        font-size: 1.5rem;
+    }
+    #san-pham .banner-gt .banner-text span{
+        font-size: 1.5rem;
+    }
+    #san-pham .container{
+        margin-left: 1rem;
+    }
+    #san-pham #box-item{
+        margin: 1rem;
+        width: 90%;
+    }
+    #san-pham #box-item .item-san-pham #item-img{
+        width: 100%;
+    }
+    #san-pham #box-item .item-san-pham #item-img img{
+        width: 100px;
+    }
+}
+@media (min-width: 576px) and (max-width: 1199.98px) {
+    #san-pham .banner-gt .banner-text h3{
+        font-size: 2rem;
+    }
+    #san-pham .banner-gt .banner-text span{
+        font-size: 2rem;
+    }
+    #san-pham .container{
+        margin-left: 15rem;
+    }
+    #san-pham #box-item{
+        width: 90%;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    #san-pham .banner-gt .banner-text h3{
+        font-size: 2.35rem;
+    }
+    #san-pham .banner-gt .banner-text span{
+        font-size: 2.35rem;
+    }
+    #san-pham #box-item{
+        width: 60%;
+    }
+}

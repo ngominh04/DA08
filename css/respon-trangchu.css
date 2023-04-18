@@ -1,0 +1,252 @@
+@media (max-width: 575.98px) {
+    #trang-chu .text-san-pham{
+        margin-left: 17rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    #trang-chu .text-san-pham p{
+        font-size: 20px;
+    }
+    #trang-chu .text-san-pham .sanpham-u{
+        margin-top: 35px;
+        margin-left: 10rem;
+    }
+    #trang-chu .text-dichvu{
+        margin-left: 18rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    #trang-chu .text-dichvu p{
+        font-size: 20px;
+    }
+    #trang-chu .text-dichvu .dichvu-u{
+        margin-top: 35px;
+        margin-left: 9rem;
+        
+    }
+    #trang-chu .text-tintuc{
+        margin-left: 21rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    #trang-chu .text-tintuc p{
+        font-size: 20px;
+    }
+    #trang-chu .text-tintuc .tintuc-u{
+        margin-top: 35px;
+        margin-left: 5rem;
+        
+    }
+    #trang-chu .banner .banner-text span{
+       font-size: 20px;
+    }
+    #trang-chu .banner .banner-text p{
+        margin-left: -3.5rem;
+        font-size: 20px;
+    }
+    #trang-chu #duoi-banner-trang-chu1 h3{
+        font-size: 12px;
+        margin-left: -3.5rem;
+    }
+    #trang-chu .container-fuild h3 img{
+        width: 20px;
+    }
+    #trang-chu #duoi-banner-trang-chu2 h3{
+        font-size: 12px;
+        margin-left: -5px;
+    }
+    #trang-chu #duoi-banner-trang-chu3 h3{
+        font-size: 12px;
+        margin-left: -10px;
+    }
+    #trang-chu #box-trangchu-gioithieu{
+        width: 100%;
+    }
+    #trang-chu #box-trangchu-gioithieu #box-trangchu{
+        margin-left: 10rem;
+    }
+    #trang-chu #box-trangchu-gioithieu img{
+        margin: 1rem;
+        width: 300px;
+    }
+    #trang-chu .sanpham-trangchu{
+        margin-left: 12rem;
+    } 
+    #trang-chu .sanpham-trangchu #box-sanpham-trangchu{
+        width: 150px;
+    }
+    #trang-chu .dichvu-trangchu{
+        width: 90%;
+        margin-left: 2.5rem;
+    }
+    #trang-chu .dichvu-trangchu #box-dichvu{
+        width: 150px;
+    }
+    #trang-chu .dichvu-trangchu #box-dichvu img{
+        width: 105%;
+    }
+    #trang-chu #tintuc-trangchu{
+        width: 85%;
+        margin-left: 2rem;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 1199.98px) {
+    #trang-chu .text-san-pham{
+        margin-left: 35rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    #trang-chu .text-san-pham p{
+        font-size: 30px;
+    }
+    #trang-chu .text-san-pham .sanpham-u{
+        margin-top: 55px;
+        margin-left: 16rem;
+    }
+    #trang-chu .text-dichvu{
+        margin-left: 38rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    #trang-chu .text-dichvu p{
+        font-size: 30px;
+    }
+    #trang-chu .text-dichvu .dichvu-u{
+        margin-top: 55px;
+        margin-left: 13rem;
+        
+    }
+    #trang-chu .text-tintuc{
+        /* margin-left: 45rem; */
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+    #trang-chu .text-tintuc p{
+        font-size: 30px;
+    }
+    #trang-chu .text-tintuc .tintuc-u{
+        margin-top: 55px;
+        margin-left: 9.2rem;
+        
+    }
+    #trang-chu .banner .banner-text span{
+       font-size: 24px;
+    }
+    #trang-chu .banner .banner-text p{
+        margin-left: -3.5rem;
+        font-size: 24px;
+    }
+    #trang-chu #duoi-banner-trang-chu1 h3{
+        font-size: 16px;
+        margin-left: -3.5rem;
+    }
+    #trang-chu .container-fuild h3 img{
+        width: 30px;
+    }
+    #trang-chu #duoi-banner-trang-chu2 h3{
+        font-size: 16px;
+        margin-left: -4.5rem;
+    }
+    #trang-chu #duoi-banner-trang-chu3 h3{
+        font-size: 16px;
+        margin-left: -10rem;
+    }
+    #trang-chu #box-trangchu-gioithieu{
+        width: 92%;
+        margin-left: 7rem;
+    } 
+    #trang-chu .sanpham-trangchu{
+        
+        margin-left: 18rem;
+    } 
+    #trang-chu .dichvu-trangchu{
+        width: 88%;
+        margin-left: 4.75rem;
+    }
+    #trang-chu #tintuc-trangchu{
+        width: 85%;
+        margin-left: 6rem;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    #trang-chu .text-san-pham{
+        margin-left: 35rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    #trang-chu .text-san-pham p{
+        font-size: 30px;
+    }
+    #trang-chu .text-san-pham .sanpham-u{
+        margin-top: 55px;
+        margin-left: 16rem;
+    }
+    #trang-chu .text-dichvu{
+        margin-left: 35rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    #trang-chu .text-dichvu p{
+        font-size: 30px;
+    }
+    #trang-chu .text-dichvu .dichvu-u{
+        margin-top: 55px;
+        margin-left: 15rem;
+        
+    }
+    #trang-chu .text-tintuc{
+        margin-left: 45rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    #trang-chu .text-tintuc p{
+        font-size: 30px;
+    }
+    #trang-chu .text-tintuc .tintuc-u{
+        margin-top: 55px;
+        margin-left: 9.2rem;
+        
+    }
+    #trang-chu .banner .banner-text span{
+       font-size: 26px;
+    }
+    #trang-chu .banner .banner-text p{
+        margin-left: -3.5rem;
+        font-size: 26px;
+    }
+    #trang-chu #duoi-banner-trang-chu1 h3{
+        
+        font-size: 16px;
+        margin-left: -4.5rem;
+    }
+    #trang-chu #duoi-banner-trang-chu2 h3{
+        
+        font-size: 16px;
+        margin-left: -6rem;
+    }
+    #trang-chu #duoi-banner-trang-chu3 h3{
+        
+        font-size: 16px;
+        margin-left: -6rem;
+    }
+    #trang-chu #box-trangchu-gioithieu{
+        width: 88%;
+        margin-left: 4.75rem;
+    } 
+    #trang-chu .sanpham-trangchu{
+        width: 86%;
+        margin-left: 4.75rem;
+    } 
+    #trang-chu .dichvu-trangchu{
+        width: 88%;
+        margin-left: 4.75rem;
+    }
+    #trang-chu #tintuc-trangchu{
+        width: 85%;
+        margin-left: 6rem;
+    }
+
+}

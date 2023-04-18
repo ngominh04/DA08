@@ -1,0 +1,72 @@
+#lienhe{margin-top: 6rem;}
+#lienhe #bangthongtin-lienhe{
+    margin-left: 11.75rem;
+    width: 83%;
+}
+#lienhe  .lienhe-u{
+    position: relative;
+}
+#lienhe  .lienhe-u{
+    position: absolute;
+    background-color: #bf2e19;
+    width: 40px;
+    height: 2px;
+    margin-top: 0.5rem;
+}
+#lienhe #diachi-lienhe{
+    background-color: #f6f6f6;
+    margin-right: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+    width: 62rem;
+    border-radius: 5px;
+}
+#lienhe #diachi-lienhe .diachi-lienhe{
+    width: 80%;
+    margin-top: 2rem;
+}
+#lienhe #diachi-lienhe img{
+    margin-bottom: 1rem;
+}
+#lienhe #thongtinkhach-lienhe {
+    background-color: #f6f6f6;
+    width: 62rem;
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+    border-radius: 5px;
+}
+#lienhe #thongtinkhach-lienhe .lienhe-text{
+    margin-top: 2rem;
+}
+#lienhe #thongtinkhach-lienhe input{
+    border: 1px solid #cecece;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+#lienhe #thongtinkhach-lienhe input[type=submit]{
+    background-color: #465967;
+    color: white;
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    margin-left: 2rem;
+}
+#lienhe {
+    position: relative;
+}
+#lienhe .zone{
+    position: absolute;
+    top: 40%;
+    right: 0;
+}
+#lienhe .text-danger{
+    color: red;
+    display: none;
+}
+#lienhe #fax{
+    margin-left: -2.75rem;
+}
+#lienhe #web{
+    margin-left: 2.35rem;
+}
+/* #lienhe{display: none;} */

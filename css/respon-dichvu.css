@@ -1,0 +1,18 @@
+@media (max-width: 575.98px) {
+    .dich-vu .container{
+        margin-left: 0;
+    }
+    .dich-vu .banner img{
+        height: 160px;
+    }
+}
+@media (min-width: 576px) and (max-width: 1199.98px) {
+    .dich-vu .container{
+        margin-left: 3rem;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .dich-vu .container{
+        margin-left: 3rem;
+    }
+}

@@ -1,0 +1,57 @@
+@media (max-width: 575.98px) {
+    #tin-tuc{
+        margin-top: 9rem;
+    }
+    #tin-tuc .banner-gt img{
+        width: 110%;
+        height: 160px;
+    }
+    #tin-tuc .banner-gt h3{
+        font-size: 16px;
+        margin-left: -10rem;
+    }
+    #tin-tuc .banner-gt span{
+        font-size: 16px;
+    }
+    #tin-tuc .container .text-tin-tuc li a h1{
+        font-size: 20px;
+    }
+    #tin-tuc .box-tin-tuc #item-img-tin-tuc{
+        margin-left: 10rem;
+        width: 50%;
+    }
+    #tin-tuc .page-tin-tuc{
+        margin:0 0 0 10rem;
+    }
+}
+@media (min-width: 576px) and (max-width: 1199.98px) {
+    #tin-tuc{margin-top: 9rem;}
+    #tin-tuc .banner-gt img{
+        width: 90%;
+        height: 260px;
+    }
+    #tin-tuc .banner-gt h3{
+        font-size: 16px;
+        margin-left: -10rem;
+    }
+    #tin-tuc .banner-gt span{
+        font-size: 16px;
+    }
+    #tin-tuc .container .text-tin-tuc li a h1{
+        font-size: 20px;
+    }
+    #tin-tuc .box-tin-tuc{
+        width: 90%;
+    }
+    #tin-tuc .box-tin-tuc #item-img-tin-tuc{
+        width: 40%;
+    }
+    #tin-tuc .page-tin-tuc{
+        margin:0 0 0 20rem;
+    }
+    #tin-tuc .zone{
+        right: 10px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+}

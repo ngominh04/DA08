@@ -1,0 +1,75 @@
+#san-pham{margin-top: 5rem;}
+#san-pham .banner-gt .banner-text h3{
+    color: #637f92;
+    font-size: 2.5rem;
+}
+#san-pham .banner-gt .banner-text span{
+    color: #bf2e1b;
+    font-size: 2.5rem;
+}
+ .text-sanpham{
+    margin-left: 1rem;
+}
+#san-pham  h1{
+    color: #475b66;
+}
+#san-pham .content-san-pham .glyphicon{
+    border-radius: 20%;
+    background-color: #bf2e1b;
+    color: white;
+}
+ #box-content{
+    width: 30rem;
+    margin-left: 1rem;
+    margin-right: 5rem;
+}
+#san-pham #box-content .mayxetnghiem-sinhhoa{
+    margin-top: 1rem;
+}
+#san-pham #box-content .mayxetnghiem-sinhhoa a{
+    text-decoration: none;
+    color: black
+}
+#san-pham .content-san-pham{
+    border-top: 3px solid #bf2e1b;
+}
+
+#san-pham #box-item{
+    width: 70%;
+    margin-bottom: 2rem;
+}
+#san-pham .item-san-pham{
+    border-top: 2px solid #d9d9d9;
+}
+#san-pham .item-san-pham #item-img{
+    margin-top: 2rem;
+    height: 375px;
+    border: 1px solid #efefef;
+    border-radius: 5px;
+}
+#san-pham .item-san-pham #item-img:hover{
+    border-bottom: 8px solid #bf2e1b;
+}
+#san-pham .item-san-pham #item-img img{
+    margin-top: 2rem;
+}
+#san-pham .item-san-pham #item-img p{
+    margin-top: 2rem;
+}
+#san-pham {
+    position: relative;
+}
+#san-pham .zone{
+    position: absolute;
+    top: 28%;
+    right: 0;
+}
+#san-pham .mayxetnghiem-sinhhoa li:hover{
+    color: red;
+}
+#san-pham .mayxetnghiem-sinhhoa li a:hover{
+    background-color: #475b66;
+}
+#glyphicon2{display: none;}
+#menu-glyphicon{display: none;}
+/* #san-pham {display: none;} */
